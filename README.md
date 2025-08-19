@@ -8,7 +8,7 @@
 ---
 
 # Methods: 
-- Initial full model y ~ x1 + x2 + x3 + x4 + x5 + x6 (Significant at 0.05, Adj $R^2$ \(\approx \) 64%)
+- Initial full model y ~ x1 + x2 + x3 + x4 + x5 + x6 (Significant at 0.05, Adj $R^2$ approx 64%
 - Model Selection:
   - Mallow's Cp suggested only x4 as a predictor; rejected due to reliability concerns.
   - Max Adj R-squared (min MSE) suggested x2 - x4 as predictors.
@@ -21,5 +21,5 @@
 # How to Run
   1. Open SAS Studio
   2. Open SAS file
-  3. Run Script, procs may be run one at a time to understand flow/logic of analysis
+  3. Run Script, procs may be run one at a time to understand flow of project
   
